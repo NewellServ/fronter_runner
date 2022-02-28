@@ -10,7 +10,7 @@
   "dependencies": {
     "@uniswap/sdk": "^3.0.3-beta.1",
     "assert": "^2.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "bootstrap": "4.3.1",
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
